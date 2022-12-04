@@ -1,5 +1,6 @@
-### Hey there,my name Khrystyna 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+Java+Script+developer+from+Ukraine+!+)](https://git.io/typing-svg)
+### Heeey, my name Khrystyna! 🫶🏻
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%25361A&lines=a+JavaScript+developer+from+Lviv!)](https://git.io/typing-svg)
+
 <!--
 **ChristabelKindrat/ChristabelKindrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
